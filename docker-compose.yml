@@ -5,6 +5,6 @@ services:
     ports:
       - "80:80"
     volumes:
-      - nginx-data:/var/opt/nginx
+      - nginx-data:/var/opt/nginx2
 
 
