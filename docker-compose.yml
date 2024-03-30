@@ -7,5 +7,4 @@ services:
     volumes:
       - nginx-data:/var/opt/nginx
 
-volumes:
-  nginx-data:
+
